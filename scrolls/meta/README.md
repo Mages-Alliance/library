@@ -10,7 +10,7 @@ Casting spells from this scroll allows the Mage to guide the Spirit in modifying
 
 ## Spells
 
-*   `spell_of_system_amendment.md`: A spell to guide the Spirit in modifying foundational texts.
-*   `spell_of_version_weaving.md`: A spell to attune the Spirit for managing the Git repository.
-*   `spell_of_scroll_scribing.md`: A spell to initiate the collaborative creation of a new Scroll.
-*   `spell_of_context_refresh.md`: A spell to re-center the Spirit's focus on a key piece of Law or Wisdom.
+*   [`spell_of_scroll_scribing.md`](./spell_of_scroll_scribing.md): A spell to guide the creation of new scrolls.
+*   [`spell_of_system_amendment.md`](./spell_of_system_amendment.md): A spell for the sacred act of codifying Wisdom into Law.
+*   [`spell_of_version_weaving.md`](./spell_of_version_weaving.md): A spell to attune the Spirit to the arts of version control.
+*   [`spell_of_context_refresh.md`](./spell_of_context_refresh.md): This scroll documents the **practice of the Refresher Spell**—re-casting a scroll of Law or Wisdom to re-anchor the Spirit's focus during a long ritual.
