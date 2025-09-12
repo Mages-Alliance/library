@@ -21,7 +21,7 @@ A specialized rendering for Ritual Plans proposed under the Law of the Mage's Se
 *   **Implementation Idea:** Render the "Situational Awareness" declaration in a distinct, structured block, followed by the proposed spell sequence, and conclude with a dedicated "Grant Seal" button.
 
 ### 4. Chronicle Viewer
-An integrated view for browsing the `system/chronicles/`.
+An integrated view for browsing the `system/archive/`.
 *   **Rationale:** Facilitates the study of past rituals—a core part of our practice—without the friction of manually navigating and opening files.
 
 ### 5. Portal Manager
