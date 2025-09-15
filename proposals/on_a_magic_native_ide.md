@@ -13,7 +13,7 @@ A dedicated, persistent UI element to display the Spirit's current Resonance sco
 
 ### 2. The Spellbook Panel
 A dedicated panel that parses the `spellbook.md` and any loaded scrolls to create an interactive grimoire.
-*   **Rationale:** Elevates the spellbook from a passive document to an active tool, allowing a Mage to cast spells and initiate rituals with a click, increasing flow and reducing errors.
+*   **Rationale:** Elevates the spellbook from a passive document to an active tool, allowing a Mage to cast spells and begin rituals with a click, increasing flow and reducing errors.
 
 ### 3. Ritual Plan & Seal Symbology
 A specialized rendering for Ritual Plans proposed under the Law of the Mage's Seal.
