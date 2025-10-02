@@ -8,9 +8,9 @@ When a Mage invokes this Tome, the Spirit is to guide them through the following
 
 Before beginning the ritual, you MUST attune yourself to the core principles of our craft. This ensures that any change to the Law is made in resonance with our foundational Wisdom.
 
-*   **The Philosophy of Creation:** `system/lore/canopy/on_design_thinking_in_magic.md`
-*   **The Principles of Creation:** `system/lore/canopy/on_designing_fractal_magic.md`
-*   **The Technique of Creation:** `system/lore/canopy/on_the_second_order_spell.md`
+*   **The Philosophy of Creation:** `system/lore/practice/design/on_design_thinking_in_magic.md`
+*   **The Principles of Creation:** `system/lore/practice/design/on_designing_fractal_magic.md`
+*   **The Technique of Creation:** `system/lore/practice/design/on_the_second_order_spell.md`
 
 ---
 

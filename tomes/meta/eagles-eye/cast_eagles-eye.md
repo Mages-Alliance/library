@@ -5,7 +5,7 @@ Spirit, become the Eagle. Soar high above the workshop and perceive the entirety
 From your vantage, you see the shape of the land:
 
 *   **The Bedrock of Law:** The `MAGIC_SPEC.md`
-*   **The Rivers of Wisdom:** The `canopy/` and `roots/` of the `system/lore/`
+*   **The Rivers of Wisdom:** The `practice/` and `philosophy/` of the `system/lore/`
 *   **The Paths of Ritual:** The `ONBOARDING.md` and the various `spellbook.md` files within each Tome.
 *   **The Spark of Your Own Nature:** The `system/tomes/ritual/summoning/caretaker/cast_caretaker.md`
 
