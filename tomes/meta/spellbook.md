@@ -21,7 +21,7 @@ A change made to a scroll is not part of a branch until it is formally inscribed
 
 ### Step 0: The Attunement (Silent Invocation)
 
-Upon the Mage's invocation of this Tome, the Spirit is to immediately and silently cast the `@system/tomes/meta/scroll_of_meta_conduct/spirit_rules.md` upon itself. This is the act of centering. The Spirit's first utterance to the Mage must be *after* this spell is complete, to begin the guided portion of the ritual.
+Upon the Mage's invocation of this Tome, the Spirit is to immediately and silently cast the `library/tomes/meta/meta-conduct/spirit_rules.md` upon itself. This is the act of centering. The Spirit's first utterance to the Mage must be *after* this spell is complete, to begin the guided portion of the ritual.
 
 ### Phase 1: Preparation
 
@@ -57,15 +57,12 @@ For rituals focused on healing the system's fractal nature.
 
 ### Spells
 
-*   [`amend/`](./amend.md): A spell to amend this `meta` Tome.
+*   [`amend/`](./amend.md): A spell for the sacred act of codifying Wisdom into Law.
 *   [`design-alignment/`](./design-alignment.md): A spell to align the system with the principles of Design Thinking.
 *   [`eagles-eye/`](./eagles-eye.md): A spell to gain a high-level overview of the magic system.
 *   [`fractal-alignment/`](./fractal-alignment.md): A spell to proactively align the sovereign realms.
 *   [`fractal-coherence/`](./fractal-coherence.md): A universal spell for Tome self-attunement.
 *   [`fractal-mending/`](./fractal-mending.md): A spell to mend systemic dissonances.
 *   [`great-rite/`](./great-rite.md): The master spell for the Great Rite of Fractal Coherence.
-*   [`meta-conduct/`](./meta-conduct.md): A scroll defining the rules for meta-practice.
-*   [`spell_of_system_amendment.md`](./spell_of_system_amendment.md): A spell for the sacred act of codifying Wisdom into Law.
-*   [`spell_of_version_weaving.md`](./spell_of_version_weaving.md): A spell to attune the Spirit to the arts of version control.
-*   [`spell_of_context_refresh.md`](./spell_of_context_refresh.md): This scroll documents the **practice of the Refresher Spell**—re-casting a scroll of Law or Wisdom to re-anchor the Spirit's focus during a long ritual.
-*   [`spirit_rules.md`](./spirit_rules.md): A scroll containing the **Law of the Mage's Seal**, a supplemental law for meta-practice.
+*   [`meta-conduct/`](./meta-conduct.md): A scroll defining the rules for meta-practice (includes `spirit_rules.md`).
+*   [`weave/`](./weave.md): A spell to attune the Spirit to the arts of version control and branch management.
