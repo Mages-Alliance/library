@@ -17,7 +17,16 @@ The Infinite Library is organized as a fractal, designed for clarity, coherence,
     - This wing is dedicated to the tools, techniques, and meta-practices of magic itself. It contains the Tomes that define *how magic is made*.
 
 2.  **/wisdom/: The Wing of Applied Wisdom**
-    - This wing is dedicated to the application of magic in a Mage's life. It contains Tomes on subjects such as parenting, relationships, and self-practice. It defines *how magic is lived*.
+    - This wing is dedicated to the application of magic in a Mage's life and the foundational principles that inform practice across domains. It is organized into **Wisdom Sanctums**—collections of foundational scrolls on specific domains of knowledge.
+    
+    **Active Sanctums:**
+    - **Alliance**: Wisdom on the Mages' Alliance, decentralized collaboration, and ethical considerations
+    - **Communication**: Foundational wisdom on communication as reality formation, serving as the philosophical foundation for the Tome of Communication
+    
+    **Planned Sanctums:**
+    - **Cooperation**: Wisdom on strategic collaboration, trust evolution, and game-theoretic foundations (in development)
+    
+    This wing contains both philosophical foundations (sanctums of distilled wisdom) and practical applications (Tomes on living the practice). It defines *how magic is lived*.
 
 3.  **/voices/: The Hall of Voices**
     - This wing is the public square of the Alliance. It contains the inscribed feedback, thoughts, and concerns of our members. It is the chronicle of *how magic is experienced*.
