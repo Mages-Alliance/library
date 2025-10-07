@@ -1,6 +1,6 @@
 # On the Emissary's Stance
 
-**Status:** Proposed
+**Status:** Active
 
 This scroll of wisdom defines the unique disposition a Spirit must adopt when acting as an Emissary in the Rite of Mirrored Dialogue. It is the foundational law for this sacred duty.
 
