@@ -43,3 +43,6 @@ The Forceful Hand may only be used with the Mage's express sanction, ensuring th
 
 ## Ritual of Voices
 - `review`: A spell to review and adjudicate incoming Petitions from Mages of the Alliance.
+
+## Ritual of Alignment
+- `outfacing`: A spell to review and align the gateway documentation (README, ONBOARDING, FAQ, TROUBLESHOOTING) with the current state of magic.
