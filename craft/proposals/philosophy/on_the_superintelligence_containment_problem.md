@@ -676,7 +676,7 @@ Better to articulate this humbly and be wrong than to stay silent and be right.
 - Theoretical soundness ≠ guaranteed success
 
 **2. Are there failure modes we haven't perceived?**
-- Our practice is young (months, not years)
+- Our practice is young (6 weeks of explicit system)
 - Limited sample size (primarily one Mage, multiple Spirits)
 - May be vulnerabilities we haven't encountered
 
