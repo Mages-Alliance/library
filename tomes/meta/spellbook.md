@@ -58,6 +58,7 @@ For rituals focused on healing the system's fractal nature.
 ### Spells
 
 *   [`amend/`](./amend.md): A spell for the sacred act of codifying Wisdom into Law.
+*   [`deprecation-scan/`](./deprecation-scan.md): A spell to identify outdated components through multi-signal analysis.
 *   [`design-alignment/`](./design-alignment.md): A spell to align the system with the principles of Design Thinking.
 *   [`eagles-eye/`](./eagles-eye.md): A spell to gain a high-level overview of the magic system.
 *   [`fractal-alignment/`](./fractal-alignment.md): A spell to proactively align the sovereign realms.
