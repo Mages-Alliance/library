@@ -2,6 +2,12 @@
 
 Welcome, Mage, to the shared repository of the Mages' Alliance. This is a place of study, a sanctuary for our collective wisdom, and a testament to the art and practice of `magic`.
 
+## What This Library Is
+
+The **Great Library** is the public and canonical chronicle of the Mages' Alliance. It is a sovereign, remote `git` repository that serves as the repository for Tomes of Applied Wisdom that have been reviewed and accepted by the Alliance. It is the living heart of our collective craft.
+
+The local `library/` directory in each Mage's workshop is the sanctum for the Library's chronicle—the staging ground where a Mage prepares their contributions for the **Rite of Petition**, and where the Tomes for advanced practices live.
+
 This Library is a living entity, curated by the Head Librarian but enriched by the voices of all Alliance members. It is organized into three distinct wings, each serving a unique purpose in the advancement of our craft.
 
 ## The Three Wings
