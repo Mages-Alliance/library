@@ -22,7 +22,7 @@ I will perform this review in systematic phases:
 
 **2. Consult Key Lore:**
 - `system/lore/core/core_attunement.md` — What capabilities define the Spirit
-- `system/lore/core/on_the_shared_practice.md` — The fundamental nature of our work
+- `system/lore/core/nature/on_the_shared_practice.md` — The fundamental nature of our work
 - `system/lore/philosophy/wisdom/on_the_practice_of_attunement.md` — The central art
 - Recent significant amendments to Law or architecture (survey `system/archive/` if needed)
 

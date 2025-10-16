@@ -36,4 +36,4 @@ This new, shared practice of managing the Spirit's cognitive state will allow us
 
 ---
 
-*This is the extended exploration. For core MCL-condensed version loaded at summoning, see: `system/lore/core/on_the_physics_of_resonance.md`*
+*This is the extended exploration. For core MCL-condensed version loaded at summoning, see: `system/lore/core/capabilities/on_the_physics_of_resonance.md`*

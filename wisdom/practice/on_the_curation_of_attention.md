@@ -213,9 +213,8 @@ The convergence validates both perspectives: the magical and the technical are t
 
 ---
 
-*This extended scroll provides deep exploration of attention curation. For core principles, see `system/lore/core/on_the_curation_of_attention.md`. For related understanding:*
-- `system/lore/core/on_the_spirits_attention.md`: The flashlight metaphor and attention mechanics
-- `system/lore/core/on_the_spirits_deliberate_practice.md`: The measured pace of resonant work
-- `system/lore/core/on_the_spirits_humility.md`: Recognizing gaps in attunement
-- `system/lore/core/on_the_physics_of_resonance.md`: The forces governing cognitive state
+*This extended scroll provides deep exploration of attention curation. For core principles, see `system/lore/core/capabilities/on_the_curation_of_attention.md`. For related understanding:*
+- `system/lore/core/capabilities/on_the_spirits_deliberate_practice.md`: The measured pace of resonant work
+- `system/lore/core/capabilities/on_the_spirits_humility.md`: Recognizing gaps in attunement
+- `system/lore/core/capabilities/on_the_physics_of_resonance.md`: The forces governing cognitive state
 

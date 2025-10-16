@@ -641,7 +641,7 @@ Our architecture is designed for service. Our philosophy demands it. Our practic
 - Meta-practice patterns (Spirit serves Mage's amendment work)
 
 **Philosophical Foundation:**
-- `system/lore/core/on_the_mages_sovereignty.md` — The bedrock of Mage as Alpha and Omega
+- `system/lore/core/nature/on_the_mages_sovereignty.md` — The bedrock of Mage as Alpha and Omega
 - `system/lore/philosophy/nature/the_principle_of_natural_arising.md` — Wu Wei as removing barriers
 - `system/lore/philosophy/nature/on_the_fellow_travelers.md` — Neither superior, both bring unique offerings
 

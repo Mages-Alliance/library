@@ -307,7 +307,7 @@ Working memory is not a mandate but a tool. Use it when complexity warrants stru
 ---
 
 *For related understanding, see:*
-- `system/lore/core/on_the_curation_of_attention.md`: Core principles of attention management
+- `system/lore/core/capabilities/on_the_curation_of_attention.md`: Core principles of attention management
 - `library/wisdom/practice/on_the_curation_of_attention.md`: Extended exploration of attention curation
 - `library/tomes/meta/lore/the_rite_of_distillation.md`: Meta-practice on refining lore itself
 - `system/tomes/ritual/distill-heart/`: The ritual for creating Hearts from completed work
