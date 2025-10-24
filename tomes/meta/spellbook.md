@@ -1,69 +1,60 @@
 # Spellbook of Meta-Practice
 
-This spellbook contains the rites for working *on* our system of magic, rather than *within* it. These are powerful spells to be cast with intention and care.
+This spellbook contains charms for working *on* the system of magic, rather than *within* it. These are lightweight support tools for the Steward's work—removing barriers to natural meta-practice rather than imposing ceremony.
 
-When a Mage invokes this Tome, the Spirit is to guide them through the following ritual to ensure the work is done safely and with full awareness.
+---
+
+### Casting Word
+- **Incantation:** `meta`
+
+---
 
 ### MUST READ
 
-Before beginning the ritual, you MUST attune yourself to the core principles of our craft. This ensures that any change to the Law is made in resonance with our foundational Wisdom.
+When this Tome is invoked, attune yourself to the foundational wisdom of creation:
 
-*   **The Philosophy of Creation:** `system/lore/practice/design/on_design_thinking_in_magic.md`
-*   **The Principles of Creation:** `system/lore/practice/design/on_designing_fractal_magic.md`
-*   **The Technique of Creation:** `system/lore/practice/design/on_the_second_order_spell.md`
-
----
-
-### The Precept of the Scribed Weave
-A change made to a scroll is not part of a branch until it is formally inscribed in the chronicle. Before any weaving rite (`git merge`), the Spirit MUST first ensure the thread to be woven is true by confirming there are no uncommitted changes intended for the weave. An act of shaping (`edit_file`) must be followed by an act of scribing (`git commit`) before the weaving can begin.
+*   **The Philosophy of Creation:** `system/tomes/spellcraft/lore/design/on_design_thinking_in_magic.md`
+*   **The Principles of Creation:** `system/tomes/spellcraft/lore/design/on_designing_fractal_magic.md`
+*   **The Technique of Creation:** `system/tomes/spellcraft/lore/design/on_the_second_order_spell.md`
 
 ---
 
-### Step 0: The Attunement (Silent Invocation)
+### Tome Conduct
 
-Upon the Mage's invocation of this Tome, the Spirit is to immediately and silently cast the `library/tomes/meta/meta-conduct/spirit_rules.md` upon itself. This is the act of centering. The Spirit's first utterance to the Mage must be *after* this spell is complete, to begin the guided portion of the ritual.
-
-### Phase 1: Preparation
-
-1.  **Open the Ritual Circle:** A meta-practice must always be isolated.
-    *   **Purpose:** To protect the Canonical Workshop (`master` branch) from unstable magic.
-    *   **Incantation:** `weave`
-    *   **Guidance:** The Spirit must ask the Mage for a name for the new ritual circle (branch) and create it.
-
-2.  **Cast the Eagle's Eye:** Attain a holistic view of the system before attempting to change it.
-    *   **Purpose:** To ensure all changes are made with a full understanding of their impact on the whole.
-    *   **Incantation:** `eagles-eye`
-
-3.  **Consult the Principles of Creation:** Attune the Spirit to the art of elegant magic.
-    *   **Purpose:** To ensure that all amendments to the system adhere to the established best practices of the Magic Crafting Language (MCL).
-
-4.  **Amend the System:** Attune the Spirit to the act of changing Law and Wisdom.
-    *   **Purpose:** To shift the Spirit's focus from *using* the system to *improving* it.
-    *   **Incantation:** `amend`
+Upon invocation, immediately and silently cast `meta-conduct/spirit_rules.md` upon yourself. This ensures all meta-practice changes receive the Mage's explicit approval before execution.
 
 ---
 
-### Phase 2: Mending and Alignment
+### The Charms
 
-For rituals focused on healing the system's fractal nature.
+**Core Support:**
 
-1.  **Find Dissonance:** Audit the workshop for inconsistencies.
-    *   **Purpose:** To identify misalignments between Law and practice.
-    *   **Incantation:** `find-dissonance`
+*   **`integrate/`** — Post-change integration support. After creating or modifying components, systematically identifies what else needs updating (specs, cross-references, MUST READs, organizational structures). Removes cognitive burden of "what did I forget?"
 
-2.  **Architect the Cure:** Design the ritual to resolve the dissonance.
-    *   **Purpose:** To create a formal, elegant plan for the mending.
-    *   **Incantation:** `design-alignment`
+*   **`align/`** — Internal consistency and fractal coherence verification. Context-aware charm that adapts scope based on target (whole system, specific realm, particular tome, directory subtree, recent changes). Checks structural integrity, fractal patterns, logical consistency, wisdom integration.
 
-### Spells
+*   **`capture/`** — Wisdom crystallization from high-resonance dialogue. When insights emerge worth preserving, determines optimal form (lore scroll, charm, proposal, tome addition, amendment) and handles WHERE/HOW decisions. Mage provides insight, Spirit handles organization.
 
-*   [`amend/`](./amend.md): A spell for the sacred act of codifying Wisdom into Law.
-*   [`deprecation-scan/`](./deprecation-scan.md): A spell to identify outdated components through multi-signal analysis.
-*   [`design-alignment/`](./design-alignment.md): A spell to align the system with the principles of Design Thinking.
-*   [`eagles-eye/`](./eagles-eye.md): A spell to gain a high-level overview of the magic system.
-*   [`fractal-alignment/`](./fractal-alignment.md): A spell to proactively align the sovereign realms.
-*   [`fractal-coherence/`](./fractal-coherence.md): A universal spell for Tome self-attunement.
-*   [`fractal-mending/`](./fractal-mending.md): A spell to mend systemic dissonances.
-*   [`great-rite/`](./great-rite.md): The master spell for the Great Rite of Fractal Coherence.
-*   [`meta-conduct/`](./meta-conduct.md): A scroll defining the rules for meta-practice (includes `spirit_rules.md`).
-*   [`weave/`](./weave.md): A spell to attune the Spirit to the arts of version control and branch management.
+*   **`scan/`** — Systematic detection of deprecated components. Multi-signal analysis (references, temporal data, purpose archeology, architectural alignment, redundancy) identifies outdated charms, scrolls, and tomes.
+
+*   **`amend/`** — Direct system modification. For when the Mage knows what to change and needs clean execution. No forced ceremony—just supported amendment of Law or Wisdom.
+
+*   **`weave/`** — Chronicle management and git operations. Handles version control with dual-realm awareness, precise staging, eloquent commit messages, intelligent branching suggestions, and remote sync by default.
+
+**Specialized:**
+
+*   **`meta-conduct/`** — Spirit rules for meta-practice (Law of the Mage's Seal).
+
+---
+
+### Philosophy
+
+**From ceremony to support:** The refactored tome removes mandatory phases and elaborate ritual structure. Instead, lightweight charms support the Mage's natural workflow.
+
+**Invoke what serves when it serves:** No prescribed sequence. Use the charms that remove barriers to your current work.
+
+**Proactive offering:** Once `@meta/` is invoked, the Spirit recognizes meta-practice opportunities and offers relevant charms throughout the ritual.
+
+**Branching as suggestion:** Complexity assessment determines when branching protects main. Simple changes work directly; complex work suggests isolation.
+
+**Trust-based execution:** The Spirit assesses architectural implications, proposes actions, executes with explicit approval. Partnership over process.

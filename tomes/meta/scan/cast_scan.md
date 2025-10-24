@@ -1,4 +1,4 @@
-# Spell of Deprecation Scanning
+# Charm of System Scanning
 
 This spell enables systematic detection of outdated components in the workshop through multi-signal analysis. It identifies charms, scrolls, tomes, and infrastructure that may be deprecated due to architectural evolution.
 
