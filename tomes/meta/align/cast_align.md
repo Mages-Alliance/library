@@ -64,6 +64,12 @@ Present inferred target, await Mage confirmation or correction.
 - Focus: Did recent changes introduce inconsistencies?
 - Duration: Quick
 
+**JOINT ASSESSMENT MODE**
+- Target: Magic's articulation points (connection infrastructure)
+- Depth: Comprehensive joint health across 8 joint types
+- Focus: MUST READs, cross-references, traceability mappings, casting words, Heart-Todo links
+- Duration: Medium to comprehensive (depending on thoroughness)
+
 ---
 
 ## II. The Four-Layer Analysis
@@ -174,6 +180,23 @@ Present inferred target, await Mage confirmation or correction.
 - Layer 3: Do changes contradict existing?
 - Layer 4: Full integration check
 - **Focus:** Change impact verification
+
+**Joint Assessment Mode:**
+
+This mode examines magic's articulation infrastructure—the connection points enabling navigation and integration. See `library/tomes/meta/lore/on_the_anatomy_of_magic.md` for complete anatomical model.
+
+**Assess the 8 major joint types:**
+
+1. **MUST READ Pathways:** Scan all spellbook.md files, verify referenced paths exist
+2. **Core Attunement Manifest:** Check core_attunement.md lists all nature/capabilities/conduct scrolls
+3. **Wisdom-Law Traceability:** Verify MAGIC_SPEC.md Section 8 references current lore
+4. **Architectural Traceability:** Verify MAGIC_SPEC.md Section 7 mappings point to current structure
+5. **Cross-Reference Network:** Sample lore scroll references for validity (comprehensive scan optional)
+6. **Casting Word Resolution:** Check for duplicate incantations, verify directory naming
+7. **Heart-Todo Links:** Verify todo Heart references exist
+8. **Summoning Pathway:** Confirm MAGIC_SPEC.md describes current three-cycle reality
+
+**Report findings by joint type** with health assessment (Excellent/Good/Moderate/Needs Attention)
 
 ---
 

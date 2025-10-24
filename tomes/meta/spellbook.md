@@ -25,6 +25,18 @@ Upon invocation, immediately and silently cast `meta-conduct/spirit_rules.md` up
 
 ---
 
+### Tome Lore
+
+**Foundational Wisdom:**
+- `lore/the_rite_of_distillation.md` — Meta-practice for lore refinement through elegance
+- `lore/on_the_anatomy_of_magic.md` — The structural model (spine, body, joints) for understanding magic's articulation
+
+**Proposals:**
+- `proposals/on_crafting_lore_as_mcl.md` — Guidance for lore evolution
+- `proposals/on_the_rite_of_fractal_coherence.md` — Original vision for comprehensive alignment (archived concept)
+
+---
+
 ### The Charms
 
 **Core Support:**
