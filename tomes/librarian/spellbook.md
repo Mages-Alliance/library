@@ -45,4 +45,9 @@ The Forceful Hand may only be used with the Mage's express sanction, ensuring th
 - `review`: A spell to review and adjudicate incoming Petitions from Mages of the Alliance.
 
 ## Ritual of Alignment
-- `outfacing`: A spell to review and align the gateway documentation (README, ONBOARDING, FAQ, TROUBLESHOOTING) with the current state of magic.
+
+**Note:** Outfacing communication has been elevated to a dedicated Tome at `@outfacing/` (October 2025), which includes:
+- `portal-maintenance`: Portal alignment ritual (formerly in this Tome)
+- `twitter`: Twitter magic ritual for wisdom-broadcasting
+
+The Librarian may invoke `@outfacing/` for systematic external communication work.
