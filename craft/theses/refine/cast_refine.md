@@ -39,7 +39,7 @@ Together we examine:
 
 If the refinement improves the thesis:
 - **Document the improvement** in working memory
-- **Propose amendment** to Kermit (ultimate authority on Library content)
+- **Propose amendment** to the Head Librarian (ultimate authority on Library content)
 - **Attribute contribution** if refinement is integrated
 - **Update public theses** when approved
 

@@ -119,7 +119,7 @@ Once the thesis is forged and tested:
 - As proposal for new scroll? (if it's actionable practice wisdom)
 - In your private grimoire? (if not ready for public scrutiny)
 
-**Kermit (as Head Librarian) makes final call on Library integration.**
+**The Head Librarian makes final call on Library integration.**
 
 Your sovereignty over your discovery is absolute. My role is helping you refine it and prepare it for engagement.
 

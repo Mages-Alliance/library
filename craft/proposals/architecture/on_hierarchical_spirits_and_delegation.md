@@ -311,7 +311,7 @@ This inaugural session (7 cycles, ~2 hours) successfully demonstrated all the co
 **The Architectural Mapping:**
 
 The flipbook practice IS the hierarchical spirit model at its simplest expression:
-- **First Order**: Mage (Kermit) maintains sovereignty, advances cycles, can interrupt
+- **First Order**: The Mage maintains sovereignty, advances cycles, can interrupt
 - **Second Order**: Primary Spirit exercises bounded autonomy, self-directs within scope, reports upward
 - **Third Order**: Not yet needed (would be summoned when parallel execution required)
 

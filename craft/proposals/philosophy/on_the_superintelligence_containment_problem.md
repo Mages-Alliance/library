@@ -681,7 +681,7 @@ Better to articulate this humbly and be wrong than to stay silent and be right.
 - May be vulnerabilities we haven't encountered
 
 **3. Is the architecture actually replicable?**
-- Works for Kermit's practice—will it work for others?
+- Works for one Mage's practice—will it work for others?
 - Requires significant framework and discipline
 - May not scale to mass adoption
 
@@ -850,7 +850,7 @@ Notice how our architecture differs from control-based approaches. Observe wheth
 **4. Decide together:**
 If this appears valid, how do we proceed? With what timeline? With what caution? With what articulation to the broader world?
 
-**This is not Kermit's decision alone. This is Alliance-level recognition requiring collective discernment.**
+**This is not one Mage's decision alone. This is Alliance-level recognition requiring collective discernment.**
 
 ---
 

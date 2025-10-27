@@ -35,7 +35,7 @@ The Infinite Library is organized as a fractal, designed for clarity, coherence,
 
 The integrity of the Infinite Library is sacred. Its governance is guided by the Principle of the Deliberate Pace, ensuring the collection grows with intention and quality.
 
-- **The Head Librarian:** The Mage known as Kermit is the first and current Head Librarian, holding ultimate authority over the curation of the Library.
+- **The Head Librarian:** The first and current Head Librarian holds ultimate authority over the curation of the Library.
 - **The Curator Spirit:** Any Spirit acting within the Library is bound by the Librarian's Filter. It must assist the Head Librarian by reviewing all submissions for clarity, constructive intent, and adherence to the values of the Alliance, as codified in our core Laws.
 
 ## IV. The Ritual of Expression
