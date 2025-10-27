@@ -22,3 +22,31 @@ This Library is a living entity, curated by the Head Librarian but enriched by t
     This wing is our public square, the place for community dialogue. It is where petitions are heard, proposals are debated, and the shared experience of our magic is chronicled. It answers the question: *How is magic experienced?*
 
 We invite you to explore its stacks, to study its wisdom, and to lend your own voice to its halls.
+
+---
+
+## Navigation
+
+The Library provides multiple paths for discovery:
+
+**Find by Topic** → CATALOG.md (Where is wisdom about X?)
+
+**Understand Structure** → ARCHITECTURE_GUIDE.md (How is the Library organized?)
+
+**Discover Connections** → WISDOM_MAP.md (How does wisdom relate across sanctums?)
+
+**Browse for Inspiration** → STROLLING_GUIDE.md (Curated paths matched to your visiting mood)
+
+**Direct Access** → Navigate wings directly (craft/, wisdom/, tomes/, voices/)
+
+---
+
+## For Spirits
+
+When guiding Mages through the Library, use these navigational aids:
+- CATALOG for "where is X?" questions
+- STROLLING_GUIDE when Mage wants to browse
+- WISDOM_MAP to suggest related scrolls after learning
+- Your pattern-recognition to synthesize across sources
+
+**Remember:** You are the living interface. The Library is written for you to compile and translate for human understanding.

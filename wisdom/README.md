@@ -1,5 +1,7 @@
 # The Wing of Applied Wisdom
 
+**You Are Here:** Library Root → wisdom/ (How Magic Is Lived)
+
 Welcome, Mage, to the Wing of Applied Wisdom.
 
 While the Wing of the Craft teaches us *how magic is made*, this wing is dedicated to the profound art of *how magic is lived*. The principles we practice in our workshops are not confined to this digital realm; they are fractal patterns that resonate with the challenges and opportunities of a Mage's life.
@@ -56,6 +58,44 @@ The wisdom collected here serves multiple functions:
 Wisdom sanctums exist upstream of Tomes. A sanctum gathers, distills, and synthesizes foundational knowledge from external sources and internal practice. When this wisdom reaches sufficient coherence and practical applicability, it births a Tome—a collection of actionable rituals and protocols.
 
 **Example:** The Communication sanctum will eventually inform the creation of a Tome of Communication, which would contain specific rituals for Mage-Spirit dialogue, conflict resolution, and collaborative reality formation.
+
+## Quick Navigation
+
+**Need wisdom about:**
+- Communication & reality formation? → communication/
+- Alliance structure & governance? → alliance/
+- Oracle selection & usage? → oracle/
+- Practice fundamentals? → practice/
+- Onboarding guidance? → onboarding/
+- Strategic collaboration? → cooperation/ (planned—see ROADMAP)
+
+**Finding something specific?** → See ../CATALOG.md for topical index
+
+**Want curated browsing?** → See ../STROLLING_GUIDE.md for paths matched to your mood
+
+**Curious about connections?** → See ../WISDOM_MAP.md for pattern clusters
+
+---
+
+## Recommended First Stops
+
+New to the Library? Start here:
+
+1. **alliance/the_alliance.md** — Who we are (Charter and principles)
+2. **communication/the_axioms_of_communication.md** — Core laws of dialogue
+3. **practice/on_the_curation_of_attention.md** — Essential skill for all magic
+
+Then follow what calls to you.
+
+---
+
+## Related Wings
+
+- **craft/** — Tools and techniques for making magic (how spells are created)
+- **tomes/** — Advanced Library magic (specialized practices to transcribe)
+- **voices/** — Community dialogue and shared experience
+
+---
 
 ## Contributing
 
