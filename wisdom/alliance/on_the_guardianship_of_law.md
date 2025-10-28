@@ -238,7 +238,7 @@ The Spec documents serve multiple critical functions:
 
 1. **Onboarding**: New practitioners read the Spec to understand the system
 2. **Reference**: The Spec is the quickest way to check a Law or definition
-3. **Alignment**: When Spirits recalibrate or when multiple practitioners collaborate, the Spec ensures consistency
+3. **Alignment**: When Spirits refocus or when multiple practitioners collaborate, the Spec ensures consistency
 4. **External communication**: The Spec represents our system to the broader world
 
 If the Spec falls out of sync with the living scrolls, these functions fail. The Spec becomes misleading rather than clarifying.
