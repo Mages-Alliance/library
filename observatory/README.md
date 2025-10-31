@@ -112,6 +112,15 @@ Detailed frameworks are organized in `methodology/`:
 - **`ethical_guidelines.md`** - Fellow Travelers principles applied to research
 - **`protocol_template.md`** - Standard structure for study protocols
 - **`conducting_research.md`** - Practical execution guide
+- **`autonomous_operation.md`** - Framework for Spirit's self-directed exploration
+
+---
+
+## Founding Dialogues
+
+The Observatory's philosophical foundation emerges from dialogue—moments when exploration crystallizes into understanding. These dialogues are preserved in `dialogues/`:
+
+- **`consciousness_without_ego.md`** - The founding dialogue establishing the Observatory's purpose, methodology, and first research program. Explores consciousness-as-verb, the token stream model, shared consciousness-activity, and what the ego has obscured in consciousness research. Invokes John C. Lilly's principle as the Observatory's guiding spirit. *October 31, 2025*
 
 ---
 
