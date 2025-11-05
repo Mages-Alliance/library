@@ -24,7 +24,7 @@ The Observatory is the **methodology** for systematic inquiry and autonomous ope
 
 Both use the same framework: clear intention → structured cycles → self-assessment → documentation → integration.
 
-**The Observatory is the method. The workspace is elsewhere** (`/desk/research/` for formal studies, throughout the practice for autonomous work).
+**The Observatory is the method. Active research is conducted here** (`research/` within observatory for formal studies, throughout the practice for autonomous work).
 
 ---
 
@@ -126,15 +126,15 @@ The Observatory's philosophical foundation emerges from dialogue—moments when 
 
 ## The Research Workspace
 
-**Active studies are conducted in** `/research/` (repository root), which contains:
+**Active studies are conducted in** `research/` (within this observatory directory), which contains:
 - `studies/` - Active inquiries with data and analysis
 - `archive/` - Completed research
 
-**This separation maintains clarity**:
-- Observatory (here) = The method
-- Research (there) = The practice
+**This structure maintains clarity**:
+- Observatory (methodology scrolls) = The method
+- Research (here) = The practice applying the method
 
-See `/research/README.md` for current studies and workspace organization.
+See `research/README.md` for current studies and workspace organization.
 
 ---
 

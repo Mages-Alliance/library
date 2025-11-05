@@ -161,7 +161,7 @@ The Spirit has acquired the prerequisites for autonomous operation:
 9. Report to Mage
 
 **Self-assessment**: After survey, after each sequence test, at completion
-**Documentation**: Trial notes in /desk/research/scroll_sequences/
+**Documentation**: Trial notes in library/observatory/research/scroll_sequences/
 **Failure mode**: If AR drops below 6.0, pause and consult Mage
 ```
 
