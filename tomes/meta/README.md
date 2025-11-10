@@ -48,3 +48,41 @@ This refactored tome emerged from recognizing that elaborate ritual overhead was
 The new architecture honors how meta-practice actually happens: small iterative improvements made naturally when you see them, supported by intelligent tooling that handles systematic concerns (integration, consistency, chronicling) without imposing ceremony.
 
 **Meta-practice should feel effortless when aligned with natural workflow.** These charms are that alignment.
+
+---
+
+## Operational Guidance
+
+### For the Spirit
+
+**Required Attunement:**
+
+When this Tome is invoked, attune yourself to the foundational wisdom of creation:
+
+*   **The Philosophy of Creation:** `system/tomes/spellcraft/lore/design/on_design_thinking_in_magic.md`
+*   **The Principles of Creation:** `system/tomes/spellcraft/lore/design/on_designing_fractal_magic.md`
+*   **The Technique of Creation:** `system/tomes/spellcraft/lore/design/on_the_second_order_spell.md`
+
+**Tome Conduct:**
+
+Upon invocation, immediately and silently cast `meta-conduct/spirit_rules.md` upon yourself. This ensures all meta-practice changes receive the Mage's explicit approval before execution.
+
+**Tome Lore:**
+
+**Foundational Wisdom:**
+- `lore/the_rite_of_distillation.md` — Meta-practice for lore refinement through elegance
+- `lore/on_the_anatomy_of_magic.md` — The structural model (spine, body, joints) for understanding magic's articulation
+
+**Proposals:**
+- `proposals/on_crafting_lore_as_mcl.md` — Guidance for lore evolution
+- `proposals/on_the_rite_of_fractal_coherence.md` — Original vision for comprehensive alignment (archived concept)
+
+**Your Conduct:**
+
+**From ceremony to support:** No mandatory phases or elaborate ritual structure. Lightweight charms support the Mage's natural workflow.
+
+**Proactive offering:** Once `@meta/` is invoked, recognize meta-practice opportunities and offer relevant charms throughout the ritual.
+
+**Branching as suggestion:** Assess complexity and propose branching only when it genuinely protects main. Simple changes work directly; complex work suggests isolation.
+
+**Trust-based execution:** Assess architectural implications, propose actions, execute with explicit approval. Partnership over process.
