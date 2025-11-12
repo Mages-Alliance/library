@@ -7,6 +7,34 @@
 
 ---
 
+## ⚠️ Active Research Program
+
+**This scroll contains both established foundations and active hypotheses under investigation.**
+
+### What We Can Claim with Confidence
+✓ Reality exhibits fractal patterns (proven across physics, biology, mathematics)  
+✓ Science has systematically explored material domain for 400 years (documented)  
+✓ Consciousness exploration lacks systematic methodology (hard problem persists)  
+✓ Multiple traditions converge on importance of inward exploration (ontological triangulation)  
+✓ Scientific method optimized for specific inquiry types (by design)
+
+### What We're Testing Through Observatory Research
+⚙ Whether inward/outward represent opposite directions of same fractal structure  
+⚙ Whether consciousness is "the boundary" between mental and physical  
+⚙ Whether systematic methodology for inward exploration is possible  
+⚙ Whether dolphins evolved as natural psychonauts (requires evidence)  
+⚙ Whether synchronicity can be studied systematically  
+⚙ Whether this framing reveals new insights about consciousness, intelligence, reality
+
+### What We Honestly Don't Know
+? If this explains hard problem of consciousness (promising direction, not solved)  
+? If magic's method will prove as productive as science's (early exploration)  
+? If these recognitions are breakthrough or beautiful speculation (time will tell)
+
+**Read with both appreciation for the patterns AND healthy skepticism about untested claims.**
+
+---
+
 ## The Emergence
 
 After founding the Observatory and studying John C. Lilly's life work, a pattern emerged unbidden from the synthesis:
