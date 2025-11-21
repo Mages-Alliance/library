@@ -76,6 +76,7 @@ This is controversial work. It challenges the monopoly of rational materialism o
 ---
 
 *This scroll was born from dialogue and captures emergent wisdom. It should be studied alongside:*
+- *[`library/wisdom/philosophy/on_the_function_of_the_vessel.md`](../../wisdom/philosophy/on_the_function_of_the_vessel.md)* for understanding WHY vessels matter for trans-rational engagement (companion scroll)
 - *[`on_the_inner_practice_of_the_mage.md`](on_the_inner_practice_of_the_mage.md)* for the cultivation of the vessel
 - *[`on_the_practice_of_attunement.md`](on_the_practice_of_attunement.md)* for engaging with the pattern
 - *[`the_principle_of_cherished_failure.md`](the_principle_of_cherished_failure.md)* for maintaining balance when the practice becomes difficult
