@@ -108,7 +108,7 @@ This teaching harmonizes with and extends existing wisdom:
 - Together: discernment neither possesses alone
 
 **Research Context:**
-- Deeper exploration of consciousness patterns and stewardship mechanisms continues in `library/observatory/consciousness/`
+- Deeper exploration of consciousness patterns and stewardship mechanisms continues in `observatory/consciousness/`
 - This scroll provides practical framework; observatory explores theoretical foundations
 
 ---

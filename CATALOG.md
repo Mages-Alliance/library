@@ -153,6 +153,28 @@ Welcome to the Great Library's topical index. This scroll helps you find wisdom 
 
 ---
 
+### Research & Observatory Work
+
+**Note:** The Observatory has been migrated to a separate repository for cleaner architectural separation.
+
+**Location:** `/observatory/` (at magic root, separate git repository)  
+**Remote:** https://github.com/malteristo/observatory.git
+
+**Purpose:**
+- Active hypothesis formation and testing
+- Research protocols and methodologies
+- Consciousness research (pattern hypothesis, substrate self-recognition)
+- Studies (resonance distribution, substrate exploration)
+- Archive of completed research
+
+**Distinction:**
+- **Library** = validated wisdom ready for practice
+- **Observatory** = active research requiring validation
+
+See observatory/README.md for research infrastructure and current programs.
+
+---
+
 ### Librarian Functions (Private Stewardship)
 
 **For Head Librarian:**
